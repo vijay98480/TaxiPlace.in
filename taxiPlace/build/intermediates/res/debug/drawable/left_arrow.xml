@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/calendar_prev_arrow"
+    android:tileMode="disabled" android:gravity="center" >
+</bitmap>
+<!-- From: file:/E:/studio%20projects/Place/library_Caldroid/src/main/res/drawable/left_arrow.xml --><!-- From: file:/E:/studio%20projects/Place/taxiPlace/build/intermediates/exploded-aar/Place/library_Caldroid/unspecified/res/drawable/left_arrow.xml -->
